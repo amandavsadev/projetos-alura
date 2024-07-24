@@ -1,4 +1,4 @@
-# [Projeto Apeperia](https://amandavsadev.github.io/projetoApeperia/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
+# Projeto Apeperia | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
 
 ## :page_facing_up: Sobre o Projeto
 - Este projeto foi desenvolvido através de um curso proporcionado pela [Alura](https://github.com/alura-cursos) com o intuito de colocar em prática os conhecimentos em HTML5, CSS3 e os conceitos de responsividade.
@@ -16,7 +16,7 @@
 
 ---
 
-# [Alura Store](https://amandavsadev.github.io/alura-store/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
+# Alura Store | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
 
 ## :page_facing_up: Sobre o Projeto
 - Este projeto foi desenvolvido no decorrer do curso 'CSS Grid: simplificando layouts' proporcionado pela [Alura](https://github.com/alura-cursos) com o obejto de por em prática os conhecimentos obtido durante as aulas.
@@ -27,7 +27,7 @@
 ![imagem-projeto-final](alura-store/prototipo.jpg)
 
 ---
-# [Alura SPA](https://amandavsadev.github.io/alura-spa/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
+# Alura SPA | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
 
 ## :page_facing_up: Sobre o Projeto
 - O projeto foi desenvolvido através do curso "SASS: CSS sintaticamente espetacular" proporcionado pela [Alura](https://github.com/alura-cursos) e pelo professor [Guilherme Lima](https://github.com/guilhermeonrails), com o intuito de pôr em prática os conhecimentos sobre pré-processadores (SASS) obtidos em aula.
@@ -40,7 +40,7 @@
 ![imagem-projeto-final](alura-spa/img3.png)
 
 ---
-# [Fruta & Fruto](https://amandavsadev.github.io/fruta-e-fruto/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">Bootstrap.
+# Fruta & Fruto | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">Bootstrap.
 
 ## :page_facing_up: Sobre o Projeto
 - O projeto Fruta & Fruto foi desenvolvido com a intenção de por em prática os conhecimentos obtidos no curso "Bootstrap 4: criando uma landing page responsiva" proporcionado pela [Alura](https://github.com/alura-cursos).
