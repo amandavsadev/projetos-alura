@@ -9,6 +9,17 @@
 ![imagem-projeto-final](alura-store/prototipo.jpg)
 
 ---
+# [Alura SPA](https://amandavsadev.github.io/alura-spa/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML e <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS.
+
+## :page_facing_up: Sobre o Projeto
+- O projeto foi desenvolvido através do curso "SASS: CSS sintaticamente espetacular" proporcionado pela [Alura](https://github.com/alura-cursos) e pelo professor [Guilherme Lima](https://github.com/guilhermeonrails), com o intuito de pôr em prática os conhecimentos sobre pré-processadores (SASS) obtidos em aula.
+- Criado em 23/11/2022
+---
+## :framed_picture: Imagens do Projeto
+
+![imagem-projeto-final](img1.png)
+![imagem-projeto-final](img2.png)
+![imagem-projeto-final](img3.png)
 
 
 
@@ -38,5 +49,5 @@
    
   ## 📝 Licença
   
-   O projeto o possui a licença _MIT_, veja o arquivo [license](license.txt) para mais informações.
+   O projeto o possui a licença _MIT_, veja o arquivo [license](LICENSE.txt) para mais informações.
 
