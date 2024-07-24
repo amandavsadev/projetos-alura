@@ -17,14 +17,25 @@
 ---
 ## :framed_picture: Imagens do Projeto
 
-![imagem-projeto-final](img1.png)
-![imagem-projeto-final](img2.png)
-![imagem-projeto-final](img3.png)
+![imagem-projeto-final](alura-spa/img1.png)
+![imagem-projeto-final](alura-spa/img2.png)
+![imagem-projeto-final](alura-spa/img3.png)
 
+---
+# [Fruta & Fruto](https://amandavsadev.github.io/fruta-e-fruto/) | <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">Bootstrap.
 
+## :page_facing_up: Sobre o Projeto
+- O projeto Fruta & Fruto foi desenvolvido com a intenção de por em prática os conhecimentos obtidos no curso "Bootstrap 4: criando uma landing page responsiva" proporcionado pela [Alura](https://github.com/alura-cursos).
+- [Bootstrap](https://getbootstrap.com/) é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.
+- Criado em 28/11/2022
+---
+## :framed_picture: Imagens do Projeto
 
+![imagem-projeto-final](fruta-e-fruto/img-1.png)
+![imagem-projeto-final](fruta-e-fruto/img-2.png)
+![imagem-projeto-final](fruta-e-fruto/img-3.png)
 
-
+---
 
 ## :woman_technologist:  Autora
 
